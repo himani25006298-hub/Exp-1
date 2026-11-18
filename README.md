@@ -6,15 +6,22 @@ Algorithm:
 1. Start
 2. Declare two numbers a and b.
 3. Perform different operations:
-     Arithmetic operators: +, -, *, /, %, //, **
-     Assignment operators: =, +=, -=, *=, /=
-     Comparison operators: ==, !=, >, <, >=, <=
-     Logical operators: and, or, not
-     Bitwise operators: &, |, ^, ~, <<, >>
-     Identity operators: is, is not
-     Membership operators: in, not in
-4. Display the result of each operation.
-5. Stop.
+
+    Arithmetic operators: +, -, *, /, %, //, **
+
+   Assignment operators: =, +=, -=, *=, /=
+
+    Comparison operators: ==, !=, >, <, >=, <=
+
+   Logical operators: and, or, not
+
+    Bitwise operators: &, |, ^, ~, <<, >>
+
+    Identity operators: is, is not
+
+    Membership operators: in, not in
+5. Display the result of each operation.
+6. Stop.
 
 OUTPUT:
 
