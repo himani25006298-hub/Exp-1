@@ -16,7 +16,8 @@ Algorithm:
 4. Display the result of each operation.
 5. Stop.
 
-6. 
+OUTPUT:
+
 Arithmatic Operation:
 
 A=19 
